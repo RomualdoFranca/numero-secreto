@@ -14,14 +14,14 @@ Use o comando git remote set-url apelido nova_url para realizar essa atualizaç�
 
 # Desafio
 
-Crie uma conta no GitHub
-Crie um repositório para um projeto pessoal.
-Faça a instalação do Git
-Crie um repositório localmente para o seu projeto pessoal
-Adicione alguns arquivos no seu repositório local
-Faça o commit das alterações
-Configure a identidade do autor do commit.
-Crie a branch Main
-Realize a conexão do seu repositório local com o remoto
-Envie as alterações no repositório local para o remoto
-Utilize o comando git status
+1. Crie uma conta no GitHub
+2. Crie um repositório para um projeto pessoal.
+3. Faça a instalação do Git
+4. Crie um repositório localmente para o seu projeto pessoal
+5. Adicione alguns arquivos no seu repositório local
+6. Faça o commit das alterações
+7. Configure a identidade do autor do commit.
+8. Crie a branch Main
+9. Realize a conexão do seu repositório local com o remoto
+10. Envie as alterações no repositório local para o remoto
+11. Utilize o comando git status
