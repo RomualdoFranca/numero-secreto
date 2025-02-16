@@ -25,3 +25,14 @@ Use o comando git remote set-url apelido nova_url para realizar essa atualizaç�
 9. Realize a conexão do seu repositório local com o remoto
 10. Envie as alterações no repositório local para o remoto
 11. Utilize o comando git status
+
+# reverter um commit
+git revert 'id do commit'
+# Ex: git revert b67ece9fceef7c32ace3c5cad45e548fdcd88b0d
+É como se fosse um ctrl-Z
+
+# resetando um commit
+Isso é feito enquanto a alteração está no repositório local. Também é necessário saber o ID do commit
+Apaga um commit do histórico
+Ex: git reset --hard 'id do commit'
+# OBS: o ID deve ser do commit anterior ao commit que se quer resetar
